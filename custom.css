@@ -1,0 +1,46 @@
+#app-mount .sidebar_a4d4d9 {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#app-mount .wrapper_fea3ef {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#app-mount .container_cbd271 {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#app-mount .containerDefault_f6f816.selected_f6f816 .link_d8bfb3,
+#app-mount .layerContainer_cd0de5 .layer_cd0de5 .tooltip_b6c360 {
+  background: linear-gradient(to right, rgb(115, 11, 1), rgb(115, 100, 0));
+}
+
+#app-mount .containerDefault_f6f816 .wrapper_d8bfb3:hover .link_d8bfb3,
+#app-mount .messageListItem_d5deea .wrapper_ec86aa:hover,
+#app-mount .content_eed6a8 .container_e9f61e:hover .memberInner_a31c43
+{
+  background: linear-gradient(to right, rgba(115, 11, 1, 0.3), rgba(115, 100, 0, 0.3));
+}
+
+#app-mount .layerContainer_cd0de5 .layer_cd0de5 .item_d90b3d:hover {
+  background: linear-gradient(to right, rgba(115, 11, 1, 0.3), rgba(115, 100, 0, 0.3));
+}
+
+#app-mount .layer_cd0de5 .userProfileOuter_c69a7b .userProfileInner_c69a7b {
+  position: relative;
+}
+
+#app-mount .layer_cd0de5 .userProfileOuter_c69a7b .userProfileInner_c69a7b::before {
+  background: linear-gradient(rgba(90, 0, 0, 0.8), rgba(70, 67, 1, 0.8)), var(--theme-background-image);
+  background-size: cover;
+  position: absolute;
+  height: calc(100% + 5px * 5);
+  width: calc(100% + 5px * 5);
+  top: calc(5px / -1 * 2.5);
+  left: calc(5px / -1 * 2.5);
+}
+
+#app-mount .layerContainer_cd0de5 .layer_c9e2da .root_bc9cc2 .userProfileModalInner_c69a7b.userProfileInner_c69a7b.fullSizeInnerThemed_c69a7b{
+  background: linear-gradient(rgba(90, 0, 0, 0.8), rgba(70, 67, 1, 0.8));
+  background-size: cover;
+}
