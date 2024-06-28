@@ -13,7 +13,7 @@
 #app-mount .containerDefault_f6f816.selected_f6f816 .link_d8bfb3,
 #app-mount .layerContainer_cd0de5 .layer_cd0de5 .tooltip_b6c360,
 #app-mount .layer_cd0de5 [class*=menu] {
-  background: linear-gradient(to right, rgb(115, 11, 1), rgb(115, 100, 0));
+  background: linear-gradient(to bottom right, rgb(115, 11, 1), rgb(115, 100, 0));
 }
 
 #app-mount .containerDefault_f6f816 .wrapper_d8bfb3:hover .link_d8bfb3,
