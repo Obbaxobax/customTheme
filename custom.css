@@ -49,10 +49,20 @@
 
 #app-mount .item_c4cd66 {
   border: 3px solid var(--unread-server-color);
+  border-radius: 48px 48px 48px 48px;
   position: absolute;
   top: -2.5px;
   width: 48px;
   height: 48px !important;
   transform: none !important;
   right: 2.5px !important;
+  transition: border-radius 0.5s linear 0s;
+}
+
+#app-mount .item_c4cd66[style*="opacity: 1;"][style*="height: 8px;"] {
+    border-radius: 48px 48px 48px 48px;
+}
+
+#app-mount .item_c4cd66[style*="opacity: 1;"] {
+  border-radius: 18px 18px 18px 18px;
 }
