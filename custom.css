@@ -48,7 +48,7 @@
 }
 
 #app-mount .item_c4cd66 {
-  border: 3px solid var(--main-theme-color);
+  border: 3px solid var(--unread-server-color);
   position: absolute;
   top: -2.5px;
   width: 48px;
